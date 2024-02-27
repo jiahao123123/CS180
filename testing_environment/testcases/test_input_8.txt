@@ -1,0 +1,12 @@
+bftpd.conf
+1:USER cs408
+1:PASS cs408
+1:CWD temp
+1:PASV
+2:data 1
+1:STOR ha
+2:hahaha
+1:PASV
+1:PASV
+3:data 1
+1:retr ha

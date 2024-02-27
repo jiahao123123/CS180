@@ -1,0 +1,9 @@
+220 bftpd 5.6 at 127.0.0.1 ready.
+331 Password please.
+230 User logged in.
+425-Unable to establish data connection.
+425 Connection refused.
+425-Unable to establish data connection.
+425 Connection refused.
+553 Error: Remote file is write protected.
+550 Error: Is a directory.

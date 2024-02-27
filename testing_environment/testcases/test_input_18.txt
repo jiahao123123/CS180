@@ -1,0 +1,7 @@
+bftpd.conf
+1:user cs408
+1:pass cs408
+1:cwd temp
+1:PASV
+1:STOR testWooHoo
+2:data 1

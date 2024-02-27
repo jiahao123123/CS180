@@ -1,0 +1,4 @@
+bftpd4.conf
+1:USER cs408
+1:PASS cs408
+1:quit

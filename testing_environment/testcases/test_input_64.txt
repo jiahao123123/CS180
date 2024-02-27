@@ -1,0 +1,10 @@
+bftpd.conf
+1:user cs408
+1:pass cs408
+1:CWD
+1:CWD 123
+1:CWD configurations
+1:pwd
+1:CDUP
+1:pwd
+1:quit

@@ -1,0 +1,5 @@
+bftpd2.conf
+1:USER cs408
+1:PASS cs408
+1:SITE
+1:STOR

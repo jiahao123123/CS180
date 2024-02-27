@@ -1,0 +1,7 @@
+bftpd.conf
+1:USER cs408
+1:PASS cs408
+1:PASV
+2:data 1
+1:NLST
+1:quit

@@ -1,0 +1,8 @@
+220 bftpd 5.6 at 127.0.0.1 ready.
+331 Password please.
+230 User logged in.
+213-Status of hahaha:
+213-Error: No such file or directory.
+213 End of Status.
+550 Error: No such file or directory.
+221 See you later...

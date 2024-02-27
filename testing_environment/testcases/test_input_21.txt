@@ -1,0 +1,6 @@
+bftpd.conf
+1:user cs408
+1:pass cs408
+1:STAT hahaha
+1:SIZE hahaha
+1:quit

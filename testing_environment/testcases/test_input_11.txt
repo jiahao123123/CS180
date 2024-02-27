@@ -1,0 +1,3 @@
+bftpd.conf
+1:abcdefgqqq
+1:quit

@@ -1,0 +1,7 @@
+220 bftpd 5.6 at 127.0.0.1 ready.
+331 Password please.
+230 User logged in.
+^257 ".*/testing_environment" is the current working directory.$
+250 OK
+^257 ".*" is the current working directory.$
+

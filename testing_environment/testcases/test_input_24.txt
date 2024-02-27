@@ -1,0 +1,7 @@
+bftpd.conf
+1:user cs408
+1:pass cs408
+1:LIST
+1:NLST
+1:STOR
+1:RETR

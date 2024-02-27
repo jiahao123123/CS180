@@ -1,0 +1,7 @@
+bftpd.conf
+1:user cs408
+1:pass cs408
+1:STAT qwertyuiop
+1:STAT
+1:quit
+

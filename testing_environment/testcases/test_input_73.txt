@@ -1,0 +1,10 @@
+bftpd1.conf
+1:user cs408
+1:pass cs408
+1:quit
+1:site
+1:stor
+1:pasv
+2:data 1
+1:stor haha
+

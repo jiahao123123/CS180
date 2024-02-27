@@ -1,0 +1,6 @@
+bftpd.conf
+1:user cs408
+1:pass cs408
+1:SIZE qwertyuiop
+1:SIZE testcases
+1:quit

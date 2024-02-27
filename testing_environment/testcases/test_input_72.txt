@@ -1,0 +1,5 @@
+bftpd1.conf
+1:quit
+2:site
+2:stor
+2:quit

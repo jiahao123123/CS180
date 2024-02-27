@@ -1,0 +1,8 @@
+bftpd.conf
+1:USER cs408
+1:PASS cs408
+1:mkd
+1:mkd haha
+1:rmd haha
+1:rmd
+1:rmd testcases

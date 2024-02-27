@@ -1,0 +1,8 @@
+220 bftpd 5.6 at 127.0.0.1 ready.
+331 Password please.
+230 User logged in.
+451 Error: File exists.
+257 "haha" has been created.
+250 OK
+550 : Directory not empty
+550 testcases: Directory not empty
